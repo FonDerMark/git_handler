@@ -1,4 +1,3 @@
-import sys
 import json
 import pika
 import threading
